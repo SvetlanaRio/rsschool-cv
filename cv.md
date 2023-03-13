@@ -19,5 +19,19 @@ A couple of courses for beginners have been reviewed, there is no experience in 
 * **GitHub**
 * **VC Code**
 
+## Education
+
+### Courses:
+
+* **Fronted developer in HTML, CSS and JavaScript** [https://stepik.org/learn]
+
+## Languages
+
+* **Russian**
+* **Englihs** A1
+
+
+
+
 
 
